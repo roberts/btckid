@@ -1,6 +1,13 @@
 /**
  *
  *
+   https://BitCoinsKid.org
+   https://SaySoGeek.com
+   https://x.com/BitCoinsKid
+   https://t.me/BitCoinsKid
+
+   $BTCKID on base chain & solana
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
