@@ -1234,8 +1234,8 @@ contract BtcKid is ERC20, Ownable {
             marketingLopsidedSellTax +
             developerLopsidedSellTax;
 
-        communityWallet = address(0x903ECB20fe5D6f1eeEE362e19e8a0c91d246bb20); // Community Funds
-        marketingWallet = address(0x9C9A2A29044d1B63aBE37Bc2BbE795CD3abb21E1); // Marketing Funds
+        communityWallet = address(0x9de74AB6116cF298C99C934292BA64b5E064d44d); // Community Funds
+        marketingWallet = address(0x1f9aA613658dDb40910BDcaD1E235Fc1d98e7F17); // Marketing Funds
         developerWallet = address(0xDEB333a3240eb2e1cA45D38654c26a8C1AAd0507); // Developer Funds
 
         _mint(address(this), totalSupply);
