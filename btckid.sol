@@ -1153,7 +1153,7 @@ contract BtcKid is ERC20, Ownable {
         address(0x000000000000000000000000000000000000dEaD);
 
     string public exchangeLink = "https://app.uniswap.or/swap";
-    string public websiteLink = "https://BitCoinsKid.com";
+    string public websiteLink = "https://BitCoinsKid.org";
 
     address public communityWallet;
     address public marketingWallet;
